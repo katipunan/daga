@@ -5,8 +5,8 @@ The goal of this project is to serve as a starting point for the typical RubyMot
 
 # Project features
 
-* Display a splash screen on app startup. The splash screen will do nothing other than increment a progress bar by 20% every 1 second. When the progress bar reachers 100%, the main screen is loaded.
-* Demonstrate how to use ProMotion and RMQ together. All screens will be ProMotion screens
+* Displays a splash screen on app startup. The splash screen will do nothing other than increment a progress bar by 20% every 1 second. When the progress bar reachers 100%, the main screen is loaded.
+* Demonstrates how to use ProMotion and RMQ together. All screens will be ProMotion screens
 
 # How to benefit from this project
 
